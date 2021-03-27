@@ -1,0 +1,12 @@
+package com.crud.main.service;
+
+import com.crud.main.entity.Author;
+
+@org.springframework.stereotype.Service
+public interface Service {
+
+	String addAuthor(Author author);
+
+	
+
+}

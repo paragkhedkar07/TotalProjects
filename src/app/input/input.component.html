@@ -1,0 +1,55 @@
+<p>input works!</p>
+<!-- <input type="text" placeholder="name" [(ngModel)]="infodata.name"><br><br><br>
+<input type="text" placeholder="address" [(ngModel)]="infodata.address"><br><br><br>
+<input type="text" placeholder="pincode" [(ngModel)]="infodata.pincode"><br><br><br>
+<input type="text" placeholder="mobileno" [(ngModel)]="infodata.mobileno"><br><br><br>
+<button (click)="submit(infodata)"> Submit Data to DB</button> -->
+<form [formGroup]="Info" (ngSubmit)="onsubmit()">
+  <input    type="text" placeholder="Id" formControlName="id"/><br /><br /><br />
+  <div class="form-group">
+    <label for="name">Name</label>
+    <input      type="text" class="form-control" placeholder="name"  formControlName="name" /><br /><br /><br />
+    <div class="error" *ngIf="this.Info.controls.name.errors?.required">
+      name is required
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label for="address">Address</label>
+    <input
+      type="text" class="form-control"
+      placeholder="address"
+      formControlName="address"
+    /><br /><br /><br />
+    <div class="error" *ngIf="this.Info.controls.address.errors?.required">
+      address is required
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label for="pincode">pincode</label>
+    <input
+      type="text"
+      placeholder="pincode" class="form-control"
+      formControlName="pincode"
+    /><br /><br /><br />
+    <div class="error" *ngIf="this.Info.controls.pincode.errors?.required">
+      it shoud be only 6 digit is required
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label for="mobileno">mobileno</label>
+    <input
+      type="text" class="form-control"
+      placeholder="mobileno"
+      formControlName="mobileno"
+    /><br /><br /><br />
+    <div class="error" *ngIf="this.Info.controls.mobileno.errors?.required">
+      it should be only 10 digit is required
+    </div>
+  </div>
+
+  <button type="submit" [disabled]="!Info.valid">Submit</button>
+</form>
+

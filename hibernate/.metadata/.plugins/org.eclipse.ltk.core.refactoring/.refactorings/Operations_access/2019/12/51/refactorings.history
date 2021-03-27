@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;HibernateUtil.java&apos; to &apos;unidirectional relationmapping/src/com.cjc.account&apos;&#x0D;&#x0A;- Original project: &apos;Operations_access&apos;&#x0D;&#x0A;- Destination element: &apos;unidirectional relationmapping/src/com.cjc.account&apos;&#x0D;&#x0A;- Original element: &apos;com.cjc.hibernateutility.HibernateUtil.java&apos;" description="Copy compilation unit" destination="=unidirectional relationmapping/src&lt;com.cjc.account" element1="/src&lt;com.cjc.hibernateutility{HibernateUtil.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1576569411793" units="1" version="1.0"/>
+</session>

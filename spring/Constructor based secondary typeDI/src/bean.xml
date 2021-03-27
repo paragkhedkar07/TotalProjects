@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:p="http://www.springframework.org/schema/p"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    https://www.springframework.org/schema/beans/spring-beans.xsd">
+    
+     <bean id="adr" class="com.cjc.Address">
+     <constructor-arg name="cityname" value="pune"></constructor-arg>
+   <constructor-arg name="areaname" value="karvenagar"></constructor-arg>
+   </bean>
+   <bean id="stu" class="com.cjc.Student">
+     <constructor-arg name="rollno" value="1"></constructor-arg>
+   <constructor-arg name="name" value="parag"></constructor-arg>
+    <constructor-arg name="addr" ref="adr"></constructor-arg>
+     </bean>
+     
+      </beans>

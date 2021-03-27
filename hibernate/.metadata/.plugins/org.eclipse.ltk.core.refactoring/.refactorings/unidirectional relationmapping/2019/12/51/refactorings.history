@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.cjc.account&apos; to &apos;Bidirectional relation mapping/src&apos;&#x0D;&#x0A;- Original project: &apos;unidirectional relationmapping&apos;&#x0D;&#x0A;- Destination element: &apos;Bidirectional relation mapping/src&apos;&#x0D;&#x0A;- Original element: &apos;unidirectional relationmapping/src/com.cjc.account&apos;" description="Copy package" destination="=Bidirectional relation mapping/src" element1="/src&lt;com.cjc.account" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1576570129631" version="1.0"/>
+</session>

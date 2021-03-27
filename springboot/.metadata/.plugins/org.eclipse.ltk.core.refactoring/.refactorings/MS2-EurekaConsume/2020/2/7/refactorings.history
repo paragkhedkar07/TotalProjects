@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.parag.main.contoller&apos; to &apos;MS2-EurekaProduce/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;MS2-EurekaConsume&apos;&#x0D;&#x0A;- Destination element: &apos;MS2-EurekaProduce/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;MS2-EurekaConsume/src/main/java/com.parag.main.contoller&apos;" description="Copy package" destination="=MS2-EurekaProduce/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.parag.main.contoller" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1581678615728" version="1.0"/>
+</session>

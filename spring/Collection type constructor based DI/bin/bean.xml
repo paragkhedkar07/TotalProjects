@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:p="http://www.springframework.org/schema/p"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    https://www.springframework.org/schema/beans/spring-beans.xsd">
+    
+     <bean id="s" class="com.cjc.Student">
+     <constructor-arg name="MyList">
+     <list>
+     <value>Java</value>
+     <value>Python</value>
+     </list>
+     </constructor-arg>
+     
+  <constructor-arg name="MySet">
+     <set>
+     <value>C++</value>
+     <value>.Net</value>
+     </set>
+     </constructor-arg>
+  
+  <constructor-arg name="MyMap">
+     <map>
+    <entry key="1" value="php"></entry>
+    <entry key="2" value="html"></entry>
+     
+       </map>
+     </constructor-arg>
+  
+     </bean>
+     
+      </beans>

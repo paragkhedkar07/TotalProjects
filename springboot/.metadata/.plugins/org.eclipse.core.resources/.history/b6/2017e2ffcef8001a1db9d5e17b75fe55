@@ -1,0 +1,33 @@
+package com.crud.main.service;
+
+import java.lang.annotation.Annotation;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import com.crud.main.entity.Author;
+
+@Service
+public class ServiceImpl implements Service
+{
+
+	@Autowired
+	com.crud.main.repository.Repository  Repository;
+
+	public String addAuthor(Author author) {
+		
+		return null;
+	}
+
+	@Override
+	public Class<? extends Annotation> annotationType() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String value() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

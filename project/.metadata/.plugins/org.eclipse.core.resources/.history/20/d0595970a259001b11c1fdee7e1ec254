@@ -1,0 +1,20 @@
+package flightReservation;
+
+public class Test extends Passenger {
+	
+	public static void main(String[] args) {
+		
+		Passenger p=new Passenger();
+		Address a= new Address();
+		          p.setId(10);
+		    p.setAddress(a);
+		          a.setCity("wardha");
+		          a.setState("maharastra");
+		          a.setStreet("hfhv");;
+		  System.out.println(p.getId());
+		System.out.println(p.getAddress().add(a));
+		System.out.println(p.getAddress().getState());
+	    System.out.println(	p.getAddress().getStreet());
+	}
+
+}

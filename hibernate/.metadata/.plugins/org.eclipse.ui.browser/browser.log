@@ -1,0 +1,136 @@
+
+Dec 19, 2019 15:44:35.04 NEW SESSION
+Dec 19, 2019 15:44:35.04 [15416:19472:1219/154435.041:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 15:44:57.07 [15416:16172:1219/154457.073:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Connection failed (-106).
+Dec 19, 2019 15:44:57.10 [15416:16172:1219/154457.099:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Connection failed (-106).
+Dec 19, 2019 15:44:57.37 [15416:16172:1219/154457.375:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Dec 19, 2019 15:44:57.43 [15416:16172:1219/154457.432:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Dec 19, 2019 15:44:58.24 [15416:19472:1219/154458.240:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 15:45:56.05 [15416:19472:1219/154556.052:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 15:46:01.76 [15416:16172:1219/154601.758:ERROR:CONSOLE(19)] "Empty response arrived for script 'devtools://devtools/remote/serve_file/@29f75ce3f42b007bd80361b0dfcfee3a13ff90b8/accessibility/accessibility_module.js'", source: devtools://devtools/bundled/shell.js (19)
+Dec 19, 2019 15:46:01.78 [15416:16172:1219/154601.781:ERROR:CONSOLE(104)] "Uncaught (in promise) Error: Could not instantiate: Accessibility.AccessibilitySidebarView", source: devtools://devtools/bundled/shell.js (104)
+Dec 19, 2019 15:47:23.68 [15416:19472:1219/154723.686:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 15:47:51.93 [15416:16172:1219/154751.938:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 19, 2019 15:48:12.58 [15416:16172:1219/154812.584:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 19, 2019 15:48:58.88 [15416:16172:1219/154858.880:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 19, 2019 15:50:13.04 [15416:19472:1219/155013.045:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 15:50:32.75 [15416:16172:1219/155032.758:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 19, 2019 15:53:54.45 [15416:16172:1219/155354.451:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 19, 2019 15:57:35.14 [15416:19472:1219/155735.140:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 15:58:19.90 [15416:19472:1219/155819.907:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 16:01:41.57 [15416:16172:1219/160141.574:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 19, 2019 16:09:51.09 [16388:4600:1219/160951.091:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 16:10:13.46 [16388:4600:1219/161013.468:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 16:10:23.03 [16388:18668:1219/161023.035:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Connection failed (-106).
+Dec 19, 2019 16:10:23.29 [16388:18668:1219/161023.293:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Connection failed (-106).
+Dec 19, 2019 16:11:05.79 [16388:4600:1219/161105.792:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 16:12:17.87 [18168:9732:1219/161217.879:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 16:12:44.09 [18168:11492:1219/161244.092:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Connection failed (-106).
+Dec 19, 2019 16:12:44.63 [18168:11492:1219/161244.629:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Connection failed (-106).
+Dec 19, 2019 16:12:46.16 [18168:9732:1219/161246.166:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 16:13:35.97 [18168:9732:1219/161335.975:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 16:15:07.66 [18168:11492:1219/161507.666:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 19, 2019 16:15:24.67 [18168:9732:1219/161524.677:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 16:15:33.33 [18168:11492:1219/161533.334:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 19, 2019 16:16:25.33 [18168:11492:1219/161625.336:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 19, 2019 16:18:15.16 [18168:11492:1219/161815.164:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 19, 2019 16:19:11.65 [18168:9732:1219/161911.649:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 16:21:42.59 [18168:11492:1219/162142.593:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 19, 2019 16:26:38.92 [18168:9732:1219/162638.928:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 16:28:45.64 [18168:11492:1219/162845.594:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 19, 2019 16:36:38.93 [18168:9732:1219/163638.930:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 16:38:45.60 [18168:11492:1219/163845.599:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 19, 2019 16:46:38.93 [18168:9732:1219/164638.935:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 16:48:45.60 [18168:11492:1219/164845.604:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 19, 2019 16:56:38.93 [18168:9732:1219/165638.937:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 16:58:45.62 [18168:11492:1219/165845.628:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 19, 2019 17:06:38.94 [18168:9732:1219/170638.943:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 17:08:45.63 [18168:11492:1219/170845.633:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 19, 2019 17:16:38.94 [18168:9732:1219/171638.947:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 17:18:45.63 [18168:11492:1219/171845.635:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 19, 2019 17:26:38.95 [18168:9732:1219/172638.951:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 17:28:45.64 [18168:11492:1219/172845.642:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+
+Dec 19, 2019 17:31:45.41 NEW SESSION
+Dec 19, 2019 17:31:45.41 [8544:19260:1219/173145.410:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 17:32:11.63 [8544:19260:1219/173211.630:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 17:32:14.90 [8544:11556:1219/173214.905:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Connection failed (-106).
+Dec 19, 2019 17:32:17.03 [8544:11556:1219/173216.997:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Connection failed (-106).
+Dec 19, 2019 17:33:09.29 [8544:19260:1219/173309.296:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 17:34:32.61 [8544:19260:1219/173432.609:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 17:55:22.92 [19720:18728:1219/175522.921:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 17:55:43.22 [19720:18728:1219/175543.223:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2019 17:57:08.28 [20272:2944:1219/175708.280:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 20, 2019 11:30:28.49 [8744:4564:1220/113028.407:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Dec 20, 2019 13:22:41.81 [8744:21428:1220/132241.813:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 20, 2019 13:22:45.90 [8744:4564:1220/132245.903:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 20, 2019 13:22:46.92 [8744:18364:1220/132246.926:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Dec 20, 2019 13:23:03.16 [8744:21428:1220/132303.138:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 20, 2019 13:23:07.13 [8744:4564:1220/132307.130:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 20, 2019 13:23:32.57 [8744:18364:1220/132332.579:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Dec 20, 2019 13:23:55.76 [8744:18364:1220/132355.760:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Dec 20, 2019 13:25:16.80 [8744:4564:1220/132516.802:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 20, 2019 13:25:42.86 [8744:4564:1220/132542.865:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 20, 2019 13:26:27.78 [8744:4564:1220/132627.779:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 20, 2019 13:27:55.29 [8744:4564:1220/132755.297:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 20, 2019 13:30:50.25 [8744:4564:1220/133050.256:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 20, 2019 13:33:02.24 [8744:4564:1220/133302.247:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -21
+Dec 20, 2019 13:33:04.41 [8744:4564:1220/133304.414:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 20, 2019 13:33:34.26 [8744:4564:1220/133334.260:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 20, 2019 13:34:09.17 [8744:4564:1220/133409.170:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 20, 2019 14:09:11.65 [8744:4564:1220/140911.653:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 14:09:39.65 [8744:4564:1220/140939.656:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 14:10:31.56 [8744:4564:1220/141031.564:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 14:12:10.43 [8744:4564:1220/141210.434:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 14:15:30.81 [8744:4564:1220/141530.809:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 14:23:12.96 [8744:4564:1220/142312.966:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 14:26:40.77 [8744:4564:1220/142640.773:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -21
+Dec 20, 2019 14:26:49.77 [8744:4564:1220/142649.778:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 14:27:47.27 [8744:4564:1220/142747.277:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 14:37:07.92 [8744:21428:1220/143707.926:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 20, 2019 14:37:44.20 [8744:21428:1220/143744.204:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 20, 2019 14:50:29.14 [8744:4564:1220/145029.139:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Dec 20, 2019 14:50:35.15 [8744:4564:1220/145035.153:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 14:51:08.70 [8744:4564:1220/145108.701:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 14:52:04.24 [8744:4564:1220/145204.247:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 14:53:43.07 [8744:4564:1220/145343.077:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 14:57:11.19 [8744:4564:1220/145711.193:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 15:02:56.34 [8744:4564:1220/150256.348:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 15:05:00.26 [8744:4564:1220/150500.266:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 15:15:06.28 [8744:4564:1220/151506.279:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 15:25:18.29 [8744:4564:1220/152518.290:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 15:43:28.54 [8744:21428:1220/154328.543:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 20, 2019 15:44:26.30 [8744:21428:1220/154426.305:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 20, 2019 15:45:05.19 [8744:21428:1220/154505.198:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-105).
+Dec 20, 2019 15:45:05.19 [8744:21428:1220/154505.198:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-105).
+Dec 20, 2019 15:45:30.89 [8744:21428:1220/154530.892:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 20, 2019 16:09:23.11 [8744:4564:1220/160923.110:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 20, 2019 16:09:44.56 [8744:4564:1220/160944.565:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 20, 2019 16:10:06.35 [8744:4564:1220/161006.355:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 16:12:00.82 [8744:4564:1220/161200.823:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 16:15:22.29 [8744:4564:1220/161522.292:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 16:38:37.50 [8744:4564:1220/163837.507:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -21
+Dec 20, 2019 16:38:41.02 [8744:4564:1220/163841.022:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -21
+Dec 20, 2019 16:38:52.35 [8744:4564:1220/163852.355:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 16:48:36.30 [8744:4564:1220/164836.303:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 20, 2019 16:49:04.81 [8744:4564:1220/164904.812:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 16:59:10.82 [8744:4564:1220/165910.823:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 17:00:00.74 [8744:21428:1220/170000.742:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 20, 2019 17:00:41.10 [8744:21428:1220/170041.103:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 20, 2019 17:01:32.20 [8744:21428:1220/170132.198:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 20, 2019 17:03:10.39 [8744:21428:1220/170310.392:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 20, 2019 17:06:18.74 [8744:21428:1220/170618.739:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 20, 2019 17:09:22.83 [8744:4564:1220/170922.837:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 17:13:11.71 [8744:21428:1220/171311.717:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 20, 2019 17:19:28.84 [8744:4564:1220/171928.845:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 17:20:02.29 [8744:4564:1220/172002.296:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 17:20:36.30 [8744:4564:1220/172036.299:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2019 17:23:23.73 [8744:21428:1220/172323.733:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 20, 2019 17:24:11.54 [8744:18364:1220/172411.541:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Dec 20, 2019 17:25:08.54 [8744:18364:1220/172508.548:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Dec 20, 2019 20:25:32.71 [8744:21428:1220/202532.716:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 20, 2019 20:25:32.78 [8744:18364:1220/202532.781:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Dec 20, 2019 20:25:34.81 [8744:4564:1220/202534.819:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2019 12:26:28.50 [8744:4564:1221/122628.508:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2019 12:26:29.31 [8744:21428:1221/122628.539:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 21, 2019 12:27:21.97 [8744:18364:1221/122721.971:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates

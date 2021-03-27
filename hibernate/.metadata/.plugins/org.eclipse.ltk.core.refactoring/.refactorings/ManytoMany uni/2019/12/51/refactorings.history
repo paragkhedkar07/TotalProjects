@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;ManytoMany bii/src/com.cjc.model&apos;&#x0D;&#x0A;- Original project: &apos;ManytoMany uni&apos;&#x0D;&#x0A;- Destination element: &apos;ManytoMany bii/src/com.cjc.model&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.cjc.model.HibernateUtil.java&#x0D;&#x0A;     com.cjc.model.Course.java&#x0D;&#x0A;     com.cjc.model.Test.java&#x0D;&#x0A;     com.cjc.model.Student.java" description="Copy compilation units" destination="=ManytoMany bii/src&lt;com.cjc.model" element1="/src&lt;com.cjc.model{HibernateUtil.java" element2="/src&lt;com.cjc.model{Course.java" element3="/src&lt;com.cjc.model{Test.java" element4="/src&lt;com.cjc.model{Student.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1576579281158" units="4" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Dec 29 20:58:59 IST 2020
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Parag\\OneDrive\\Desktop\\java\\spring\\mvc\ simple\ project\\WebContent\\WEB-INF\\lib\\spring-web-5.1.9.RELEASE.jar=WEB-INF/lib/spring-web-5.1.9.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Parag\\OneDrive\\Desktop\\java\\spring\\mvc\ simple\ project\\WebContent\\WEB-INF\\lib\\spring-web-5.1.9.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.1.9.RELEASE-sources.jar

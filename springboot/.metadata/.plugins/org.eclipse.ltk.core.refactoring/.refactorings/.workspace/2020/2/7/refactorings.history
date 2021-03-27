@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;WebService-CRUD-READ&apos; to &apos;WebService-CRUD-Getdata&apos;&#x0D;&#x0A;- Original element: &apos;WebService-CRUD-READ&apos;&#x0D;&#x0A;- Renamed element: &apos;WebService-CRUD-READ&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;WebService-CRUD-READ&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=WebService-CRUD-READ" name="WebService-CRUD-Getdata" references="true" stamp="1581596724340" version="1.0"/>
+</session>

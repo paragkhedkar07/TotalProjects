@@ -1,0 +1,23 @@
+package student.info;
+import java.util.Scanner;
+public class Test
+{
+public static void main(String args[])
+{
+  Scanner sc=new Scanner(System.in);
+  System.out.println("enter length of array");
+   int length=sc.nextInt();
+	
+  Student[] s=new Student[length];
+     
+   
+  for(int i=0;i<=length;i++)
+  {
+	  Student s1=new Student();
+	  System.out.println("enter first student roll no"+i);
+	  
+  }
+
+}
+	
+}

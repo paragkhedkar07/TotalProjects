@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="jhdvis">
+        <property name="context-root" value="jhdvis"/>
+        <property name="java-output-path" value="/jhdvis/build/classes"/>
+    </wb-module>
+</project-modules>
